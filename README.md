@@ -2,8 +2,7 @@
 <h2 align='center'> I'm a Full-Stuck Web Developer (MERN), a Husband, Father and Innovation researcher.</h2>
 <h3 align='left'>Connect with me:  <a align='center' href="https://www.linkedin.com/in/mormben/">
     <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" />
-    </a> <a align='left' href="https://www.facebook.com/mor.m.ben"><img width="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" />
-    </a></h3><a align='left' href="mor6686@gmail.com"><img width="20px" src="https://i.pinimg.com/736x/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg" />
+    </a><a align='left' href="https://www.facebook.com/mor.m.ben"><img width="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" /></a></h3><a align='left' href="mor6686@gmail.com"><img width="20px" src="https://i.pinimg.com/736x/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg" />
     </a></h3>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=morMBen&show_icons=true&count_private=true&theme=dark" width="350"></a>
