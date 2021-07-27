@@ -12,8 +12,7 @@
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB.
-- 📫 How to reach me: [@MorMBen](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) or <a rel="me" href="mor6686@gmail.com">Mor6686@gmail.com</a>
-- ⚡ Fun fact: I :heart: :dog:s
+- ⚡ Fun fact: I :heart: :dog:s 
 
 <h2 > Languages and Tools: 
 </h2>
