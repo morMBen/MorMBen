@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there, I'm Mor 😊</h1>
 <h2 align='center'> I'm a Full-Stuck Web Developer (MERN), a Husband, Father and Innovation researcher.</h2>
 <h3 align='left'>Connect with me:  <a align='center' href="https://www.linkedin.com/in/mormben/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" />
     </a> <a align='left' href="https://www.facebook.com/mor.m.ben">
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" />
+    <img width="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" />
     </a></h3>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=morMBen&show_icons=true&count_private=true&theme=dark" width="350"></a>
