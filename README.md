@@ -22,7 +22,7 @@
 </a>
 <a href="https://wizardly-mcclintock-97cb4d.netlify.app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=morMBen&repo=capsules.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=morMBen&repo=portfolio.github.io&theme=material-palenight" />
 </a>
 </p>
 
