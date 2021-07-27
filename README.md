@@ -10,6 +10,12 @@
 </p>
 <h2 > Languages and Tools: 
 </h2>
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Flutter.
+- 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB
+<!-- - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a> -->
+- ⚡ Fun fact: I :heart: :dog:s
+
 
 | Web|Server-Side|Mobile|Tools\Design |
 |----|---|---|---|
