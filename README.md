@@ -8,10 +8,15 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=morMBen&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Flutter.
+- 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB
+<!-- - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a> -->
+- ⚡ Fun fact: I :heart: :dog:s
+
 <h2 > Languages and Tools: 
 </h2>
-Inputs
-
 | Web|Server-Side|Mobile|Tools\Design |
 |----|---|---|---|
 | <img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img  alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img  alt="Dart"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> | <img  alt="Github  "  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | 
