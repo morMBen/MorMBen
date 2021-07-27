@@ -10,12 +10,10 @@
 </p>
 <h2 align='center'> Languages and Tools: 
 </h2>
-<h3 align="right">Web:</h3>
+<h3 ><span align="right">Web:</span><span align="left">Web:</span></h3>
 <img align="right" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="right" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="right" alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<h3 align="left">Server:</h3>
 <img align="left"  alt="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left"  alt="Redux"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left"  alt="Express"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
