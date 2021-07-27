@@ -14,6 +14,7 @@
 <table>
     <thead>
       <tr>
+        <th><h4>Web</h4><th>
      <th>
 <img align="right" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
      </th>
@@ -36,7 +37,6 @@
     </thead>
     <tbody>
         <tr>
-        <td>Web</td>
             <td>"XML HTTP request"</td>
             <td>pascalCase</td>
             <td><code>XmlHttpRequest</code></td>
