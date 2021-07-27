@@ -3,7 +3,7 @@
 <h3 align='left'>Connect with me:  <a align='center' href="https://www.linkedin.com/in/mormben/">
     <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" /></a> 
     <a align='left' href="https://www.facebook.com/mor.m.ben"><img height="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" /></a> 
-    <a align='left' href="mor6686@gmail.com"><img height="20px" src="https://i.pinimg.com/736x/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg" />
+    <a align='left' href="mor6686@gmail.com"><img height="20px" src="https://icon2.cleanpng.com/20171220/bxe/gmail-logo-png-5a3aaffc62d223.8975386515137955804048.jpg" />
     </a></h3>
 
 <p align='center'>
