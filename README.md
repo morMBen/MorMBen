@@ -23,7 +23,7 @@ Inputs
 | <img  alt="Jest"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> | | | | 
 
 📊 **This week I spent my time on**
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=morMBenr&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=morMBen&hide_title=true&hide_border=true&langs_count=5)
 
 
 <!-- <table>
