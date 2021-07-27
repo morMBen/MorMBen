@@ -10,9 +10,9 @@
 </p>
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Flutter, Go
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- 🌱 I’m currently learning Flutter.
+- 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB.
+- 📫 How to reach me: [@MorMBen](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - ⚡ Fun fact: I :heart: :dog:s
 
 <h2 > Languages and Tools: 
