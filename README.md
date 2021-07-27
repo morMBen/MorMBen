@@ -1,5 +1,5 @@
 <h1 align='center'> Hi there, I'm Mor 😊</h1>
-<h2 align='center'> I'm a Full-Stuck Web Developer (MERN), a Husband, Father and Innovation researcher.</h2>
+<h2 align='center'> I'm a Full-Stuck Web Developer (MERN), Husband, Father and Innovation researcher.</h2>
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Flutter.
