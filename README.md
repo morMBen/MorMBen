@@ -1,5 +1,11 @@
 <h1 align='center'> Hi there, I'm Mor 😊</h1>
 <h2 align='center'> I'm a Full-Stuck Web Developer (MERN), a Husband, Father and Innovation researcher.</h2>
+
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Flutter.
+- 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB.
+- ⚡ Fun fact: I :heart: :dog:s 
+
 <h3 align='left'>Connect with me:  <a align='center' href="https://www.linkedin.com/in/mormben/">
     <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" /></a> 
     <a align='left' href="https://www.facebook.com/mor.m.ben"><img height="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" /></a> 
@@ -9,11 +15,6 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=morMBen&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Flutter.
-- 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB.
-- ⚡ Fun fact: I :heart: :dog:s 
 
 <h2 > Languages and Tools: 
 </h2>
