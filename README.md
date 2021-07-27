@@ -14,7 +14,7 @@
 <table>
     <thead>
       <tr>
-        <th><h4>Web</h4><th>
+        <th>Web<th>
      <th>
 <img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
      </th>
