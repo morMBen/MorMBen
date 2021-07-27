@@ -8,13 +8,6 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=morMBen&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Flutter.
-- 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB
-<!-- - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a> -->
-- ⚡ Fun fact: I :heart: :dog:s
-
 <h2 > Languages and Tools: 
 </h2>
 
@@ -27,6 +20,7 @@
 | <img  alt="Redux"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> |  |  | <img  alt="After"  src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" /> |
 | <img  alt="Express"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> |  |  |  |
 | <img  alt="Jest"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> | | | | 
+
 
 
 
