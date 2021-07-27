@@ -12,7 +12,7 @@
 </h2>
 Inputs
 
-| Web|name |description |
+| Web|Server-Side |description |
 |----|---|---|
 | <img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | _user | address of certificate owner |
 | <img  alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | _user | address of certificate owner |
