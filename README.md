@@ -17,6 +17,7 @@
 
 <h2 > Languages and Tools: 
 </h2>
+
 | Web|Server-Side|Mobile|Tools\Design |
 |----|---|---|---|
 | <img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img  alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img  alt="Dart"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> | <img  alt="Github  "  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | 
