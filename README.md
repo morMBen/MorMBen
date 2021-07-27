@@ -18,6 +18,6 @@
 <img  alt="Redux"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img  alt="Express"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <div>
-    <div width="150" height="100" color="#333333">
+    <div width="150" height="100" background-color="lightblue">
 <div>
 </h3>
