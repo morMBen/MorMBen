@@ -3,7 +3,7 @@
 <h3 align='left'>Connect with me:  <a align='center' href="https://www.linkedin.com/in/mormben/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> <a align='left' href="https://www.facebook.com/mor.m.ben">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2108%2FPNG%2F512%2Ffacebook_icon_130940.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffacebook%2F130940&tbnid=INLlJp5kuMriWM&vet=12ahUKEwjTx9vNnIPyAhUBpBoKHWZKBrcQMygAegUIARDFAQ..i&docid=LHiSZ2sAWiSOOM&w=512&h=512&q=facebook%20icon&ved=2ahUKEwjTx9vNnIPyAhUBpBoKHWZKBrcQMygAegUIARDFAQ" />
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" />
     </a></h3>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=morMBen&show_icons=true&count_private=true&theme=dark" width="350"></a>
