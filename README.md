@@ -36,7 +36,7 @@
     </thead>
     <tbody>
         <tr>
-        <td><h4>Web</h4></td>
+        <td>Web</td>
             <td>"XML HTTP request"</td>
             <td>pascalCase</td>
             <td><code>XmlHttpRequest</code></td>
