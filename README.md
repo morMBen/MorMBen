@@ -2,8 +2,8 @@
 <h2 align='center'> I'm a Full-Stuck Web Developer, Teacher and Innovation researcher.</h2>
 
 - 🔭 I’m currently working on some cool contract😉
-- 🌱 These days I'm exploring web3 technologies.
-- 💬 Ask me about anything related to Javascript/Typescript or React/Express/MongoDB.
+- 🌱 These days I'm exploring <span style="color:orange">_web3_</span> technologies, <span style="color:orange">_Blockchain development_</span>.
+- 💬 Ask me about anything related to <span style="color:orange">_Javascript/Typescript_</span> or <span style="color:orange">_React/Express/MongoDB_</span>.
 - 🎸 Fun fact: I always invite new friends to a jam session.
 
 <h3 align='left'>Connect with me:  <a align='center' href="https://www.linkedin.com/in/mormben/">
